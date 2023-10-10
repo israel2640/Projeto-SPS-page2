@@ -1,0 +1,113 @@
+@media(max-width: 1080px) {
+
+  body {
+    background-color: #45a049;
+
+  }
+
+  h1 {
+    color: blue;
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+  }
+
+  h2 {
+    color: blue;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 10px;
+    font-size: 16px;
+  }
+
+  h3 {
+    color: black;
+    font-family: 'Inria Sans',
+      font-weight: bold;
+    /* Negrito */
+    font-size: 17px;
+    text-align: center;
+
+  }
+
+  p {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    /* Negrito */
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+  }
+
+  .tablet {
+    width: 160px;
+    /* Diminui o tamanho da imagem */
+    height: auto;
+    /* Mantei a mesma proporção */
+
+  }
+
+  .celular {
+    width: 110px;
+    /* Diminui o tamanho da imagem */
+    height: auto;
+    /* Mantei a mesma proporção */
+  }
+
+  .ana {
+    width: 160px;
+    /* Diminui o tamanho da imagem */
+    height: auto;
+    /* Mantei a mesma proporção */
+  }
+
+  .egito {
+    width: 160px;
+    /* Diminui o tamanho da imagem */
+    height: auto;
+    /* Mantei a mesma proporção */
+  }
+
+  .endrigo {
+    width: 160px;
+    /* Diminui o tamanho da imagem */
+    height: auto;
+    /* Mantei a mesma proporção */
+  }
+
+  .logo-principal {
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .rodape {
+    max-width: 100%;
+    /* Diminui o tamanho da imagem */
+    height: auto;
+    /* Mantei a mesma proporção */
+  }
+
+  .logo-contato {
+    margin-left: 20px;
+  }
+
+  button {
+    background-color: midnightblue;
+    color: #fff;
+    padding: 10px 15px;
+    /* largura do botão */
+    border: none;
+    border-radius: 30px;
+    /* Bordas */
+    cursor: pointer;
+    font-size: 10px;
+  }
+
+  button:hover {
+
+    background-color: blue;
+  }
+
+}
